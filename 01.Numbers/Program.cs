@@ -25,7 +25,7 @@
             Console.WriteLine("4 * 1 = 4");
             Console.WriteLine("--------------------------------------------------------------------");
             
-            Console.WriteLine("Negative Numbers:");
+            //Negative Numbers
             Console.WriteLine("Negative numbers are numbers that are less than zero. \nThey are also called negative integers or negative whole numbers.");
             Console.WriteLine("Negative numbers are used to represent the opposite of a positive number.");
             Console.WriteLine("When any number is multiplied by -1, the result is the opposite of the original number.");
@@ -53,12 +53,6 @@
             Console.WriteLine(- - -2);
             Console.WriteLine(- - - -2);
             Console.WriteLine("When cancelled in pairs, even number of signs get striked out, the last odd numbered sign remains");
-
-
-
-
-
-
         }
     }
 }
