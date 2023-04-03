@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Numbers", "01.Numbers\01.Numbers.csproj", "{C3BEEB4D-370E-4BCF-9517-BFE35054E8F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.AddingAndSubtractingSignedNumbers", "02.AddingAndSubtractingSignedNumbers\02.AddingAndSubtractingSignedNumbers.csproj", "{D590BDA4-BB1C-4142-97A4-1831CA9AA583}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.AddingAndSubtractingSignedNumbers", "02.AddingAndSubtractingSignedNumbers\02.AddingAndSubtractingSignedNumbers.csproj", "{D590BDA4-BB1C-4142-97A4-1831CA9AA583}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

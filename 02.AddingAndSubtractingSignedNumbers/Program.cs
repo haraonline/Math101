@@ -5,6 +5,3 @@ Console.WriteLine("=====================================");
 
 //Properties of arithmatic opertions
 Console.WriteLine("Properties of arithmatic opertions");
-
-
-
